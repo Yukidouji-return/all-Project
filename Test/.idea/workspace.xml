@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3e4dea6-c5f8-428f-9589-1b63bee69c54" name="Default Changelist" comment="" />
+    <list default="true" id="d3e4dea6-c5f8-428f-9589-1b63bee69c54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java - Parity Number/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Parity Number/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Parity Number/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Parity Number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Parity Number/Java - Parity Number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Parity Number/src/EvenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Parity Number/src/OddThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Parity Number/src/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Thread Find Prime Num/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Thread Find Prime Num/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Thread Find Prime Num/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Thread Find Prime Num/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Thread Find Prime Num/Java - Thread Find Prime Num.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Thread Find Prime Num/src/LazyPrimeFactorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Thread Find Prime Num/src/OptimizedPrimeFactorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Thread Find Prime Num/src/TestPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Validate Mail/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Validate Mail/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Validate Mail/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Validate Mail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Validate Mail/Java - Validate Mail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Validate Mail/src/EmailExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java - Validate Mail/src/EmailExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java - BasicThread" beforeDir="false" afterPath="$PROJECT_DIR$/../Java - BasicThread" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java - HashMap,LinkedHashMap,TreeMap" beforeDir="false" afterPath="$PROJECT_DIR$/../Java - HashMap,LinkedHashMap,TreeMap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java - Product Manager" beforeDir="false" afterPath="$PROJECT_DIR$/../Java - Product Manager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java - RasingCars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java - RasingCars/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +46,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Wbrp3bRSpnPBqUbzID3nFCRojj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,14 +58,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java - Product Manager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Task">
     <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyList" />
       <module name="Test" />
@@ -37,8 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task" />
         <item itemvalue="Application.MyList" />
       </list>
     </recent_temporary>
@@ -69,6 +114,7 @@
       <workItem from="1579781937238" duration="2891000" />
       <workItem from="1580349467673" duration="651000" />
       <workItem from="1580350934988" duration="624000" />
+      <workItem from="1580435080582" duration="634000" />
     </task>
     <servers />
   </component>
